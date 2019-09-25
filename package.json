@@ -35,7 +35,7 @@
     "varuint-beyondcoin": "^1.0.0",
     "wif": "^2.0.6"
   },
-  "author": "",
+  "author": "Kristian Kramer <kristian@beyonddata.llc> (https://github.com/Tech1k)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/beyondcoin-project/beyondcoinjs/issues"

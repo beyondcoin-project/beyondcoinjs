@@ -154,4 +154,4 @@ Once executed you will receive a reply, containing the `rawTransaction` property
 ```
 
 ## Partially Signed Transactions
-For information on partially signed transactions, see the [PSMST (Partially Signed Multi Signature Transactions](https://github.com/Tech1k/beyondcoinjs/blob/master/doc/examples/MULTI_SIGNATURE_TRANSACTIONS/SIGN_PARTIAL_TRANSACTION.md) documentation.
+For information on partially signed transactions, see the [PSMST (Partially Signed Multi Signature Transactions](https://github.com/beyondcoin-project/beyondcoinjs/blob/master/doc/examples/MULTI_SIGNATURE_TRANSACTIONS/SIGN_PARTIAL_TRANSACTION.md) documentation.
