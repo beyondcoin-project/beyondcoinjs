@@ -1,0 +1,15 @@
+image: node:8.11.4
+
+cache:
+  paths:
+    - node_modules/
+
+test:
+  stage: test
+  environment: Test
+  script:
+    - npm i
+    - npm i -g mocha
+    - npm i -g chai
+    - npm i npm@latest -g
+    - npm run test
